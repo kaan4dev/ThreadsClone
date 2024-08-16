@@ -1,0 +1,132 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "dbook",
+    "fullName": "Devin Booker",
+    "imageName": "user",
+    "isVerified": true,
+    "threadMessage": "I'm Booker",
+    "likedThreads": [
+      "The Phoenix Suns are on fire!",
+      "Top 10 shooting guards of all time",
+      "NBA playoff predictions 2024"
+    ]
+  },
+  {
+    "id": "550e8401-e29b-41d4-a716-446655440001",
+    "username": "aedwards",
+    "fullName": "Anthony Edwards",
+    "imageName": "user2",
+    "isVerified": true,
+    "threadMessage": "I'm Edwards",
+    "likedThreads": [
+      "Rookie of the Year discussion",
+      "Minnesota Timberwolves potential",
+      "Future stars of the NBA"
+    ]
+  },
+  {
+    "id": "550e8402-e29b-41d4-a716-446655440002",
+    "username": "kdurant",
+    "fullName": "Kevin Durant",
+    "imageName": "user3",
+    "isVerified": true,
+    "threadMessage": "I'm Durant",
+    "likedThreads": [
+      "KD's legacy and greatness",
+      "Brooklyn Nets championship hopes",
+      "All-time great small forwards"
+    ]
+  },
+  {
+    "id": "550e8403-e29b-41d4-a716-446655440003",
+    "username": "lbjames",
+    "fullName": "LeBron James",
+    "imageName": "user4",
+    "isVerified": true,
+    "threadMessage": "I'm James",
+    "likedThreads": [
+      "LeBron vs MJ: The GOAT debate",
+      "Lakers' road to the finals",
+      "LeBron's top 5 career moments"
+    ]
+  },
+  {
+    "id": "550e8404-e29b-41d4-a716-446655440004",
+    "username": "stephcurry",
+    "fullName": "Stephen Curry",
+    "imageName": "user5",
+    "isVerified": true,
+    "threadMessage": "I'm Curry",
+    "likedThreads": [
+      "The impact of 3-point shooting",
+      "Warriors dynasty discussion",
+      "Curry's most memorable shots"
+    ]
+  },
+  {
+    "id": "550e8405-e29b-41d4-a716-446655440005",
+    "username": "giannis",
+    "fullName": "Giannis Antetokounmpo",
+    "imageName": "user6",
+    "isVerified": true,
+    "threadMessage": "I'm Antetokounmpo",
+    "likedThreads": [
+      "The Greek Freak's dominance",
+      "Bucks' chances this season",
+      "Giannis' MVP campaigns"
+    ]
+  },
+  {
+    "id": "550e8406-e29b-41d4-a716-446655440006",
+    "username": "kawhileonard",
+    "fullName": "Kawhi Leonard",
+    "imageName": "user7",
+    "isVerified": true,
+    "threadMessage": "I'm Leonard",
+    "likedThreads": [
+      "Kawhi's best defensive plays",
+      "Clippers' championship aspirations",
+      "The art of the mid-range shot"
+    ]
+  },
+  {
+    "id": "550e8407-e29b-41d4-a716-446655440007",
+    "username": "rwestbrook",
+    "fullName": "Russell Westbrook",
+    "imageName": "user8",
+    "isVerified": true,
+    "threadMessage": "I'm Westbrook",
+    "likedThreads": [
+      "Triple-double machine",
+      "Westbrook's relentless energy",
+      "Best point guards in NBA history"
+    ]
+  },
+  {
+    "id": "550e8408-e29b-41d4-a716-446655440008",
+    "username": "kyrieirving",
+    "fullName": "Kyrie Irving",
+    "imageName": "user9",
+    "isVerified": true,
+    "threadMessage": "I'm Irving",
+    "likedThreads": [
+      "Kyrie's handles and skills",
+      "Brooklyn Nets' big three",
+      "Clutch moments in NBA history"
+    ]
+  },
+  {
+    "id": "550e8409-e29b-41d4-a716-446655440009",
+    "username": "lukadoncic",
+    "fullName": "Luka Dončić",
+    "imageName": "user10",
+    "isVerified": true,
+    "threadMessage": "I'm Dončić",
+    "likedThreads": [
+      "Luka's rise to stardom",
+      "Mavericks' future with Luka",
+      "Best young players in the NBA"
+    ]
+  }
+]
