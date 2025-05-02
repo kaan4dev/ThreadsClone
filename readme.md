@@ -1,4 +1,4 @@
-  # 🧵 ThreadsClone
+ # 🧵 ThreadsClone
  
 **ThreadsClone** is a SwiftUI-based project that replicates the core features of the Threads app. This project is designed to practice and refine **SwiftUI** skills while exploring modern app design and functionality. 📱✨
 
